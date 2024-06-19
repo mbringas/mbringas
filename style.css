@@ -58,6 +58,7 @@ nav ul li a:hover {
 #banner {
   background-image: url('background.jpg');
   background-size: cover;
+  background-color: #fefbd8;
   height: 500px;
   display: flex;
   justify-content: center;
