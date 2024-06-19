@@ -20,7 +20,7 @@ body {
 
 /* Header styles */
 header {
-  background-color: #d5f4e6;
+  background-color: #80ced6;
   padding: 20px 0;
   position: fixed;
   top: 0;
@@ -126,7 +126,7 @@ nav ul li a:hover {
 
 /* Contact section styles */
 #contact {
-  background-color: #f4f4f4;
+  background-color: #d5f4e6;
   padding: 100px 0;
 }
 
